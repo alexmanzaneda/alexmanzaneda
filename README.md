@@ -36,7 +36,7 @@ I have a strong passion for algorithms, mathematics, and problem-solving. I am c
 <a href="https://www.clipsrules.net/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CLIPS-2C3E50?style=for-the-badge&logoColor=white" alt="CLIPS" height="30" /></a>  
 </div>  
 
-### �️ Tools, Systems & Databases  
+### 🛠️ Tools, Systems & Databases  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" height="50" /></a>  
@@ -55,10 +55,12 @@ I have a strong passion for algorithms, mathematics, and problem-solving. I am c
 ## Featured Repository  
 
 <div align="center">  
-  <a href="https://github.com/alexmanzaneda/FIBprojects" target="_blank">
-    <img src="https://gh-card.dev/repos/alexmanzaneda/FIBprojects.svg?fullname=&theme=dark" alt="FIBprojects" />
-  </a>
-  <p><sub>🗂️ Multi-language repository — C, C++, Python, Java, Haskell, Prolog, R and more</sub></p>
+
+<br/> 
+
+[![FIBprojects](https://img.shields.io/badge/FIBprojects-Projects%20from%20my%20CS%20degree%20at%20FIB%2C%20UPC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmanzaneda/FIBprojects)  
+<sub>🗂️ C · C++ · Python · Java · Haskell · Prolog · R · and more</sub>
+
 </div>  
 
 <br/>  
