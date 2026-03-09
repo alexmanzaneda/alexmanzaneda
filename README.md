@@ -30,28 +30,23 @@ I have a strong passion for algorithms, mathematics, and problem-solving. I am c
 <a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.swi-prolog.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/swi-prolog/swipl-devel/main/desktop/swipl-256.png" alt="Prolog" height="50" /></a>  
-<a href="https://jason-lang.github.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AgentSpeak-555555?style=flat-square" alt="AgentSpeak" height="22" /></a>  
-<a href="https://planning.wiki/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PDDL-555555?style=flat-square" alt="PDDL" height="22" /></a>  
-<a href="https://www.clipsrules.net/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CLIPS-555555?style=flat-square" alt="CLIPS" height="22" /></a>  
+<a href="https://www.swi-prolog.org/" target="_blank"><img style="margin: 10px" src="https://www.swi-prolog.org/icons/swipl.png" alt="Prolog" height="50" /></a>  
+<a href="https://jason-lang.github.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AgentSpeak-2C3E50?style=for-the-badge&logoColor=white" alt="AgentSpeak" height="30" /></a>  
+<a href="https://planning.wiki/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PDDL-2C3E50?style=for-the-badge&logoColor=white" alt="PDDL" height="30" /></a>  
+<a href="https://www.clipsrules.net/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CLIPS-2C3E50?style=for-the-badge&logoColor=white" alt="CLIPS" height="30" /></a>  
 </div>  
 
-### 🗄️ Databases  
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>  
-
-### 🛠️ Tools & Systems  
+### �️ Tools, Systems & Databases  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.microsoft.com/windows" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/windows11/0078D4" alt="Windows" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" height="50" /></a>  
 <a href="https://www.ros.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ros/22314E" alt="ROS" height="50" /></a>  
 <a href="https://www.truenas.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/truenas/0094C6" alt="TrueNAS" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/latex/008080" alt="LaTeX" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>  
 
 <br/>
@@ -61,9 +56,9 @@ I have a strong passion for algorithms, mathematics, and problem-solving. I am c
 
 <div align="center">  
   <a href="https://github.com/alexmanzaneda/FIBprojects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexmanzaneda&repo=FIBprojects&theme=dark&hide_border=true" alt="FIBprojects" />
+    <img src="https://gh-card.dev/repos/alexmanzaneda/FIBprojects.svg?fullname=&theme=dark" alt="FIBprojects" />
   </a>
-  <p>📚 A collection of projects and assignments developed throughout my Computer Science degree at FIB, UPC.</p>
+  <p><sub>🗂️ Multi-language repository — C, C++, Python, Java, Haskell, Prolog, R and more</sub></p>
 </div>  
 
 <br/>  
