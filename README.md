@@ -52,11 +52,16 @@ I have a strong passion for algorithms, mathematics, and problem-solving. I am c
 <br/>
 
 
-## Featured Repository  
+## Featured Repositories  
 
 <div align="center">  
 
 <br/> 
+
+[![puntadas-web](https://img.shields.io/badge/puntadas--web-A%20web%20page%20with%20Next.js-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmanzaneda/puntadas-web)  
+<sub>🌐 Next.js · TypeScript · Tailwind CSS</sub>
+
+<br/>
 
 [![FIBprojects](https://img.shields.io/badge/FIBprojects-Projects%20from%20my%20CS%20degree%20at%20FIB%2C%20UPC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmanzaneda/FIBprojects)  
 <sub>🗂️ C · C++ · Python · Java · Haskell · Prolog · R · and more</sub>
